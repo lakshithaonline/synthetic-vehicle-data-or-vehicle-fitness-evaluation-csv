@@ -16,7 +16,11 @@ By using this dataset, you agree to use it for non-commercial, academic, and res
 
 ## Acknowledgments
 
-We would like to express our sincere gratitude to the New Zealand Transport Agency (NZTA) for providing the essential parameters and resources that made this synthetic dataset possible. Their publicly available Warrant of Fitness (WOF) vehicle inspection criteria were instrumental in generating the dataset used for this research. Thank you for your commitment to enhancing vehicle safety and roadworthiness in New Zealand.
+We sincerely thank the New Zealand Transport Agency (NZTA) for providing the essential parameters and resources that made this synthetic dataset possible. Their publicly available Warrant of Fitness (WOF) vehicle inspection criteria were instrumental in our research.
+
+We also express our gratitude to the dedicated professionals at NZTA for their commitment to vehicle safety and roadworthiness. Their efforts greatly contribute to public safety on New Zealand roads.
+
+In the spirit of respect and appreciation, we say **"Ngā mihi nui ki a koutou,"** meaning "Many thanks to you all," to everyone who has supported and guided us throughout this research journey.
 
 ## Columns Description
 
