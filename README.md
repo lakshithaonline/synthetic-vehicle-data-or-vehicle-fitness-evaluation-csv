@@ -59,10 +59,6 @@ The synthetic dataset was generated using vehicle inspection parameters sourced 
 - **Format**: CSV (Comma-Separated Values)
 - **Size**: [73 KB]
 
-## License
-
-[Specify a license here, e.g., MIT License. If unsure, you can start with a permissive license like MIT or Apache 2.0.]
-
 ## How to Cite
 
 If you use this dataset in your research, please cite it as follows:
