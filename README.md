@@ -57,7 +57,7 @@ The synthetic dataset was generated using vehicle inspection parameters sourced 
 
 - **Filename**: `synthetic_vehicle_fitness_data.csv`
 - **Format**: CSV (Comma-Separated Values)
-- **Size**: [Add file size here, e.g., 1.2 MB]
+- **Size**: [73 KB]
 
 ## License
 
