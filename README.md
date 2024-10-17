@@ -24,21 +24,23 @@ Ngā mihi nui ki a koutou — many thanks to all who have supported and guided u
 
 The dataset contains the following columns:
 
-1. **Tyres**: Inspection score for the condition of the vehicle's tyres.
-2. **Brakes**: Inspection score for the performance of the braking system.
-3. **Suspension**: Inspection score for the suspension system.
-4. **Body and Chassis**: Inspection score for the condition of the body and chassis.
-5. **Lights**: Inspection score for the functionality and condition of the lights.
-6. **Glazing**: Inspection score for the windows and windshield condition.
-7. **Wipers**: Inspection score for the effectiveness of the windshield wipers.
-8. **Doors**: Inspection score for the condition and functionality of the vehicle doors.
-9. **Seat Belts**: Inspection score for the condition and functionality of seat belts.
-10. **Airbags**: Inspection score for the presence and functionality of airbags.
-11. **Speedometer**: Inspection score for the functionality of the speedometer.
-12. **Exhaust System**: Inspection score for the condition of the exhaust system.
-13. **Fuel System**: Inspection score for the fuel system's condition and safety.
-14. **Final Score**: The overall score calculated based on the individual component scores.
-15. **Outcome**: The result of the vehicle fitness evaluation, indicating whether the vehicle "Passes" or "Fails" the inspection.
+| **Column**            | **Description**                                               |
+|-----------------------|-------------------------------------------------------------|
+| **Tyres**             | Score for the condition of tyres, including tread depth.    |
+| **Brakes**            | Score for the operation of the braking system.              |
+| **Suspension**        | Score for structural condition; rust is not allowed.        |
+| **Body and Chassis**  | Score for the overall structural condition of the vehicle.   |
+| **Lights**            | Score for the functionality of the lights.                  |
+| **Glazing**           | Score for the safety of the windscreen.                     |
+| **Wipers**            | Score for the effectiveness of wipers and washers.          |
+| **Doors**             | Score for the safe operation of doors.                       |
+| **Seat Belts**        | Score for the condition of seat belts and buckles.          |
+| **Airbags**           | Score for airbags, if installed.                             |
+| **Speedometer**       | Score for the working condition of the speedometer.         |
+| **Exhaust System**    | Score for the exhaust system; no leaks or excessive noise.  |
+| **Fuel System**       | Score for the condition of the fuel system; no leaks.       |
+| **Final Score**       | Overall score based on component scores.                    |
+| **Outcome**           | Result of the inspection; indicates "Pass" or "Fail."       |
 
 ## Usage
 
