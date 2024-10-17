@@ -6,6 +6,12 @@ This repository contains a synthetically generated dataset used for evaluating v
 
 The dataset was generated using inspection parameters publicly available from the New Zealand Transport Agency (NZTA). It reflects criteria commonly used in vehicle inspections, aiming to provide realistic simulation data for evaluating vehicle roadworthiness. Each row in the dataset represents a vehicle inspection record, with scores given for various parameters. Additionally, a "Final Score" and "Outcome" are provided for each record, indicating the overall fitness evaluation and pass/fail status.
 
+## Disclaimer
+
+This dataset was developed solely for research and academic purposes. It uses parameters based on the New Zealand Transport Agency's (NZTA) publicly available Warrant of Fitness (WOF) vehicle inspection criteria to create a synthetic dataset. The data should **not** be used for real-world vehicle inspection, safety assessments, or any commercial applications. It is intended for **academic use only**, such as machine learning model development, data analysis, and research studies.
+
+By using this dataset, you agree to use it for non-commercial, academic, and research purposes only. The dataset's developers are not liable for any misuse or incorrect application of the data.
+
 ## Columns Description
 
 The dataset contains the following columns:
