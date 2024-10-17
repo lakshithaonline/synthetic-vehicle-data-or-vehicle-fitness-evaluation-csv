@@ -8,7 +8,9 @@ The dataset was generated using inspection parameters publicly available from th
 
 ## Disclaimer
 
-This dataset was developed solely for research and academic purposes. It uses parameters based on the New Zealand Transport Agency's (NZTA) publicly available Warrant of Fitness (WOF) vehicle inspection criteria to create a synthetic dataset. The data should **not** be used for real-world vehicle inspection, safety assessments, or any commercial applications. It is intended for **academic use only**, such as machine learning model development, data analysis, and research studies.
+This dataset was developed solely for research and academic purposes. It uses parameters based on the New Zealand Transport Agency's (NZTA) publicly available Warrant of Fitness (WOF) vehicle inspection criteria to create a synthetic dataset. The original WOF inspection criteria can be found on the NZTA website: [NZTA Warrant of Fitness Information](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/warrant-of-fitness/#:~:text=What%20a%20warrant,be%20no%20leaks).
+
+The data should **not** be used for real-world vehicle inspection, safety assessments, or any commercial applications. It is intended for **academic use only**, such as machine learning model development, data analysis, and research studies.
 
 By using this dataset, you agree to use it for non-commercial, academic, and research purposes only. The dataset's developers are not liable for any misuse or incorrect application of the data.
 
