@@ -14,6 +14,10 @@ The data should **not** be used for real-world vehicle inspection, safety assess
 
 By using this dataset, you agree to use it for non-commercial, academic, and research purposes only. The dataset's developers are not liable for any misuse or incorrect application of the data.
 
+## Acknowledgments
+
+We would like to express our sincere gratitude to the New Zealand Transport Agency (NZTA) for providing the essential parameters and resources that made this synthetic dataset possible. Their publicly available Warrant of Fitness (WOF) vehicle inspection criteria were instrumental in generating the dataset used for this research. Thank you for your commitment to enhancing vehicle safety and roadworthiness in New Zealand.
+
 ## Columns Description
 
 The dataset contains the following columns:
